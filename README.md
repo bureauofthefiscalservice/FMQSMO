@@ -7,4 +7,4 @@ Information provided in this RFI, including the updated/refined Vision and assoc
 
   
 
-Please refer to the response instructions and respondent profile questions included in the General Services Administration (GSA) Market Research as a Service (MRAS) survey tool, which can be accessed at the following URL: LINK. The deadline for responses is 12:00 a.m. (ET)  July 3, 2021.  Additional instructions and information on upcoming engagement opportunities are included in MRAS and at [Financial Management Quality Service Management Office - Updates](https://www.fiscal.treasury.gov/fmqsmo/updates.html). 
+Please refer to the response instructions and respondent profile questions included in the General Services Administration (GSA) Market Research as a Service (MRAS) survey tool, which can be accessed at the following URL: https://feedback.gsa.gov/jfe/form/SV_3jAWxOEKFz0WD5A. The deadline for responses is 12:00 a.m. (ET)  July 3, 2021.  Additional instructions and information on upcoming engagement opportunities are included in MRAS and at [Financial Management Quality Service Management Office - Updates](https://www.fiscal.treasury.gov/fmqsmo/updates.html). 
